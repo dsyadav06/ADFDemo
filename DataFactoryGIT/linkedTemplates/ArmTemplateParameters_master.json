@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "DataFactoryGIT"
 		},
+		"lnkStorage_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},

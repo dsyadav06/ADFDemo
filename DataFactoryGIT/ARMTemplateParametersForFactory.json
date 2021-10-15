@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "DataFactoryGIT"
+		},
+		"lnkStorage_connectionString": {
+			"value": ""
 		}
 	}
 }
